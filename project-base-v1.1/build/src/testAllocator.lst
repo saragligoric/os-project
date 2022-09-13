@@ -1,0 +1,40 @@
+GAS LISTING /tmp/cc2EO9nR.s 			page 1
+
+
+   1              		.file	"testAllocator.cpp"
+   2              		.option pic
+   3              		.option norelax
+   4              		.text
+   5              	.Ltext0:
+   6              	.Letext0:
+   7              		.file 1 "src/../lib/hw.h"
+GAS LISTING /tmp/cc2EO9nR.s 			page 2
+
+
+DEFINED SYMBOLS
+                            *ABS*:0000000000000000 testAllocator.cpp
+     /tmp/cc2EO9nR.s:134    .debug_abbrev:0000000000000000 .Ldebug_abbrev0
+     /tmp/cc2EO9nR.s:299    .debug_str:00000000000000bc .LASF17
+     /tmp/cc2EO9nR.s:285    .debug_str:0000000000000045 .LASF18
+     /tmp/cc2EO9nR.s:309    .debug_str:00000000000001c3 .LASF19
+     /tmp/cc2EO9nR.s:273    .debug_line:0000000000000000 .Ldebug_line0
+     /tmp/cc2EO9nR.s:301    .debug_str:0000000000000180 .LASF0
+     /tmp/cc2EO9nR.s:295    .debug_str:000000000000009d .LASF1
+     /tmp/cc2EO9nR.s:291    .debug_str:000000000000007d .LASF2
+     /tmp/cc2EO9nR.s:281    .debug_str:0000000000000028 .LASF4
+     /tmp/cc2EO9nR.s:293    .debug_str:000000000000008b .LASF3
+     /tmp/cc2EO9nR.s:277    .debug_str:0000000000000013 .LASF5
+     /tmp/cc2EO9nR.s:275    .debug_str:0000000000000000 .LASF6
+     /tmp/cc2EO9nR.s:287    .debug_str:000000000000005b .LASF7
+     /tmp/cc2EO9nR.s:303    .debug_str:000000000000018d .LASF8
+     /tmp/cc2EO9nR.s:279    .debug_str:000000000000001a .LASF9
+     /tmp/cc2EO9nR.s:313    .debug_str:00000000000001f6 .LASF10
+     /tmp/cc2EO9nR.s:289    .debug_str:000000000000006e .LASF11
+     /tmp/cc2EO9nR.s:311    .debug_str:00000000000001e6 .LASF12
+     /tmp/cc2EO9nR.s:307    .debug_str:00000000000001b3 .LASF13
+     /tmp/cc2EO9nR.s:297    .debug_str:00000000000000b0 .LASF14
+     /tmp/cc2EO9nR.s:283    .debug_str:000000000000002f .LASF15
+     /tmp/cc2EO9nR.s:305    .debug_str:000000000000019d .LASF16
+     /tmp/cc2EO9nR.s:9      .debug_info:0000000000000000 .Ldebug_info0
+
+NO UNDEFINED SYMBOLS

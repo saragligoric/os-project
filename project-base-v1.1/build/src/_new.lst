@@ -1,0 +1,40 @@
+GAS LISTING /tmp/ccvY2sLq.s 			page 1
+
+
+   1              		.file	"_new.cpp"
+   2              		.option pic
+   3              		.option norelax
+   4              		.text
+   5              	.Ltext0:
+   6              	.Letext0:
+   7              		.file 1 "src/../lib/hw.h"
+GAS LISTING /tmp/ccvY2sLq.s 			page 2
+
+
+DEFINED SYMBOLS
+                            *ABS*:0000000000000000 _new.cpp
+     /tmp/ccvY2sLq.s:130    .debug_abbrev:0000000000000000 .Ldebug_abbrev0
+     /tmp/ccvY2sLq.s:290    .debug_str:00000000000000fc .LASF17
+     /tmp/ccvY2sLq.s:298    .debug_str:00000000000001ef .LASF18
+     /tmp/ccvY2sLq.s:272    .debug_str:0000000000000053 .LASF19
+     /tmp/ccvY2sLq.s:258    .debug_line:0000000000000000 .Ldebug_line0
+     /tmp/ccvY2sLq.s:260    .debug_str:0000000000000000 .LASF0
+     /tmp/ccvY2sLq.s:288    .debug_str:00000000000000e9 .LASF1
+     /tmp/ccvY2sLq.s:280    .debug_str:000000000000009c .LASF2
+     /tmp/ccvY2sLq.s:276    .debug_str:0000000000000089 .LASF4
+     /tmp/ccvY2sLq.s:270    .debug_str:0000000000000041 .LASF3
+     /tmp/ccvY2sLq.s:266    .debug_str:000000000000002a .LASF5
+     /tmp/ccvY2sLq.s:274    .debug_str:0000000000000076 .LASF6
+     /tmp/ccvY2sLq.s:286    .debug_str:00000000000000d6 .LASF7
+     /tmp/ccvY2sLq.s:294    .debug_str:00000000000001cf .LASF8
+     /tmp/ccvY2sLq.s:262    .debug_str:000000000000000d .LASF9
+     /tmp/ccvY2sLq.s:264    .debug_str:000000000000001b .LASF10
+     /tmp/ccvY2sLq.s:292    .debug_str:00000000000001c0 .LASF11
+     /tmp/ccvY2sLq.s:268    .debug_str:0000000000000031 .LASF12
+     /tmp/ccvY2sLq.s:296    .debug_str:00000000000001df .LASF13
+     /tmp/ccvY2sLq.s:278    .debug_str:0000000000000090 .LASF14
+     /tmp/ccvY2sLq.s:284    .debug_str:00000000000000c0 .LASF15
+     /tmp/ccvY2sLq.s:282    .debug_str:00000000000000aa .LASF16
+     /tmp/ccvY2sLq.s:9      .debug_info:0000000000000000 .Ldebug_info0
+
+NO UNDEFINED SYMBOLS
